@@ -1,3 +1,2 @@
 # IDL-codes
-A series of IDL codes I've been working with recently for plotting simulations results and the Parker spiral results from another of my repositories. 
-Note simulation results also need save data to work, which I did not include on Github
+A collection of IDL programs I've started developing (and never used for scientific research purposes). The 'Parker' projects are a conceptual exercise aimed at determining the possible source position given the spacecraft position at 1 AU and the observed angle of emission. The 'type3_model1' project plots an artificial type III solar radio burst
